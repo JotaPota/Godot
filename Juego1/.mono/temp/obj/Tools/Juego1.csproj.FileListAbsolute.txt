@@ -1,0 +1,5 @@
+C:\Users\Juan Pablo\Documents\Juego1\.mono\temp\obj\Tools\Juego1.csprojAssemblyReference.cache
+C:\Users\Juan Pablo\Documents\Juego1\.mono\temp\bin\Tools\Juego1.dll
+C:\Users\Juan Pablo\Documents\Juego1\.mono\temp\bin\Tools\Juego1.pdb
+C:\Users\Juan Pablo\Documents\Juego1\.mono\temp\obj\Tools\Juego1.dll
+C:\Users\Juan Pablo\Documents\Juego1\.mono\temp\obj\Tools\Juego1.pdb
